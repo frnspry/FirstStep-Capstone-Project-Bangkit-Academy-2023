@@ -4,6 +4,3 @@
 [submodule "firststep-api"]
 	path = firststep-api
 	url = https://github.com/frnspry/firststep-api.git
-[submodule "FirstStep"]
-	path = FirstStep
-	url = https://github.com/yunpnzr/FirstStep.git
